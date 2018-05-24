@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/LambdaSchool/Precourse-Assessment#readme",
   "dependencies": {
-    "jest": "^22.4.2"
+    "jest": "^22.4.2",
+    "npm": "^6.1.0"
   }
 }
